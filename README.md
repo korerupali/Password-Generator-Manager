@@ -2,7 +2,8 @@
 
 # Title: Password Generator and Manager Application
 
-Description: This application combines the convenience of a password generator with the functionality of a password manager, designed to assist users in creating and securely storing complex passwords. It leverages Python's Tkinter GUI toolkit for a user-friendly interface and integrates the Pyperclip library for clipboard access, enhancing usability.
+## Description:
+  This application combines the convenience of a password generator with the functionality of a password manager, designed to assist users in creating and securely storing complex passwords. It leverages Python's Tkinter GUI toolkit for a user-friendly interface and integrates the Pyperclip library for clipboard access, enhancing usability.
 
 # Key Features:
 
